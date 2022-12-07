@@ -19,6 +19,10 @@ I have a goal: to make the transition to a new specialty, find my first job and 
 - Git, GitHub
 - Boodstrap
 - Visual Studio Code
+***
+
+## My courses
+National Research Tomsk State University  "Web-developer: from scratch to first projects"
 
 
 
