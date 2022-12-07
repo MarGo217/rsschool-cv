@@ -1,6 +1,6 @@
 # Marya Gorbunova
 
-
+![](img/avatar.jpg)
 
 ## My contacts:
 itworld1702@gmail.com
